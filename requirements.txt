@@ -1,0 +1,6 @@
+streamlit
+pandas
+pyvis
+snowflake-connector-python
+scikit-learn
+streamlit-agraph 
